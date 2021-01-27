@@ -30,7 +30,7 @@ function Menu() {
 
     return ( <div> {
             menuFlag ? <div className="animate__animated animate__fadeInRight menu d-flex justify-content-center align-items-center flex-column" >
-            <button onClick={handleMenu}> cerrar </button> 
+            <button className="btn btnExitMenu" onClick={handleMenu}> <i className="fas fa-times fa-2x"></i> </button> 
             <div >
             <button className = "btn text-white">
                 < img src={home} alt="home"/>

@@ -23,12 +23,12 @@ function SubMenu(){
                 </div>
                 <div className="col-12 col-sm-12 col-md-6">
                     <div className="row h-100">
-                        <div className="col-12 p-5 col-sm-12 col-md-6 bg-dark d-flex justify-content-center align-items-center">
+                        <div className="col-12 p-5 col-sm-12 col-md-6 bg-black d-flex justify-content-center align-items-center">
                             <div className="p-5">
                                 <img src={vector} alt="challenge" className="img-fluid"/>
                             </div>
                         </div>
-                        <div className="col-12 col-sm-12 col-md-6 bg-dark d-flex justify-content-center align-items-center p-0">
+                        <div className="col-12 col-sm-12 col-md-6 d-flex justify-content-center align-items-center p-0">
                             <img src={studio} alt="challenge" className="img-fluid"/>
                         </div>
                     </div>

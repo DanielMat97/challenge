@@ -3,6 +3,8 @@
 }
 
 .text-main{
+    width: 50%;
+    text-align: left;
     font-size: 3.75em;
     line-height: 60px;
 }
@@ -27,5 +29,11 @@
     .contTextMain{
         min-height: 100%;
         display: initial;
+    }
+    .text-main{
+        width: 100%;
+        text-align: center;
+        font-size: 2em;
+        line-height: 1em;
     }
 }

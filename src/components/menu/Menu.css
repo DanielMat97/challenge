@@ -20,3 +20,9 @@
     outline: none;
     box-shadow: none;
 }
+
+.btnExitMenu{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}

@@ -41,7 +41,7 @@ function App() {
             <div className="col-12 col-sm-12 col-md-6 p-0 contHeader position-relative">
               <Header/>
               <div className="contTextMain">
-                <h1 className="w-50 text-main p-4">Digital products lovingly made with a human touch.</h1>
+                <h1 className="text-main p-4">Digital products lovingly made with a human touch.</h1>
               </div>
               <Menu/>
             </div>
