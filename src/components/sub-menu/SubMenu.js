@@ -27,7 +27,10 @@ function SubMenu(){
                                 <img src={vector} alt="challenge" className="img-fluid"/>
                             </div>
                         </div>
-                        <div className="studio col-12 col-sm-12 col-md-6 d-flex justify-content-center align-items-center p-0">
+                        <div className="studio col-12 col-sm-12 col-md-6 d-flex justify-content-center align-items-center p-5">
+                            <div className="p-5">
+                                <div className="py-5"></div>
+                            </div>
                         </div>
                     </div>
                 </div>
