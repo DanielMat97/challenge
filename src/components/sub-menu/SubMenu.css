@@ -22,3 +22,10 @@
 .bg-black{
     background: black;
 }
+
+.studio{
+    background-image: url(../../images/studio.svg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

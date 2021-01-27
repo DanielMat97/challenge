@@ -2,7 +2,6 @@ import './SubMenu.css';
 
 //images
 import vector from '../../images/vector.svg';
-import studio from '../../images/studio.svg';
 
 function SubMenu(){
     return(
@@ -28,8 +27,7 @@ function SubMenu(){
                                 <img src={vector} alt="challenge" className="img-fluid"/>
                             </div>
                         </div>
-                        <div className="col-12 col-sm-12 col-md-6 d-flex justify-content-center align-items-center p-0">
-                            <img src={studio} alt="challenge" className="img-fluid"/>
+                        <div className="studio col-12 col-sm-12 col-md-6 d-flex justify-content-center align-items-center p-0">
                         </div>
                     </div>
                 </div>
