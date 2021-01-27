@@ -1,0 +1,15 @@
+header{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.subHeader{
+    border-bottom: solid 5px black;
+}
+.logo{
+    letter-spacing: -4px;
+}
+.subHeader button{
+    outline: none;
+    box-shadow: none;
+}

@@ -1,0 +1,22 @@
+.contLink{
+    font-size: 2.5em;
+}
+.degArrow{
+    transform: rotate(-45deg);
+    cursor: pointer;
+}
+.disabled{
+    color: #888888;
+}
+.lineBlack{
+    border-bottom: solid 5px black;
+    color: black;
+    background: black;
+}
+.bg-black{
+    background: black;
+}
+.studioImg{
+    width: 100%;
+    object-fit: contain;
+}
