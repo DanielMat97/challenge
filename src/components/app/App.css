@@ -1,4 +1,31 @@
+.app{
+    z-index: 0;
+}
+
 .text-main{
     font-size: 3.75em;
     line-height: 60px;
+}
+
+.contHeader{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.contTextMain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 375px){
+    .contHeader{
+        display: initial;
+    }
+    .contTextMain{
+        min-height: 100%;
+        display: initial;
+    }
 }
