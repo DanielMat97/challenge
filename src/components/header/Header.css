@@ -14,7 +14,7 @@ header{
     box-shadow: none;
 }
 
-@media (max-width: 375px){
+@media (max-width: 475px){
     header{
         position:   relative;
         top: 0;
