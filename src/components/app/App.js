@@ -40,8 +40,8 @@ function App() {
           <div className="row d-flex flex-sm-row-reverse">
             <div className="col-12 col-sm-12 col-md-6 p-0 contHeader position-relative">
               <Header/>
-              <div className="contTextMain">
-                <h1 className="text-main p-4">Digital products lovingly made with a human touch.</h1>
+              <div className="contTextMain my-5 my-md-0">
+                <h1 className="text-main p- my-5 my-md-0">Digital products lovingly made with a human touch.</h1>
               </div>
               <Menu/>
             </div>

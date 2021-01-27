@@ -28,7 +28,7 @@ function Header() {
 
 
     return (
-      <header className="w-100 p-3 bg-white">
+      <header className="w-100 p-3 bg-white mb-5 mb-md-0">
         <div className="w-100 d-flex justify-content-between align-items-center subHeader">
             <h1 className="logo d-none d-md-flex">Lagom</h1>
             <h1 className="logo d-md-none d-sm-flex">ggg</h1>
